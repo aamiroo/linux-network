@@ -3,7 +3,7 @@
 
 
 
-[vim](vim-editor.png)
+![vim](vim-editor.png)
 
 
 
