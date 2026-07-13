@@ -36,7 +36,7 @@ This repository may include topics such as:
 .
 ├── Linux/
 │   ├── Command_line
-│   ├── 
+│   ├── Vim_Editor
 │   ├── 
 │   └── 
 │
